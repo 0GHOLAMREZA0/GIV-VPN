@@ -471,8 +471,7 @@
     <string-array name="config_backup_options">
         <item>Local</item>
         <item>WebDAV</item>
-    </string-array>
-<string name="subscription_url_default">https://raw.githubusercontent.com/YourUser/YourRepo/main/config.json</string>
+    </string-array>https://raw.githubusercontent.com/0GHOLAMREZA0/My-Configs/refs/heads/main/Config.txt</string>
 <string name="server_list_prompt">انتخاب سرور</string>
 <string name="connect">اتصال</string>
 </resources>
